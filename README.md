@@ -6,7 +6,7 @@ Collection curated and gathered by:
 * **Serina L. Robinson**
 <br>Department of Environmental Microbiology, the Swiss Federal Institute of Aquatic Science and Technology (Eawag), Duebendorf, Switzerland</br>
 
-This is a curated collection of enzymes where fluorinated compounds/fluoride  are reaction participants. A protein FASTA file is available for download [here](https://github.com/serina-robinson/PFAS-Biodegradation-Toolkit/blob/main/data/20240927_fluorinated_deg_aa.faa) and a a full version of the table below is available for download [here](https://github.com/serina-robinson/PFAS-Biodegradation-Toolkit/blob/main/data/20240927_fluorinated_deg_genes_SR_v7.csv)
+This is a curated collection of enzymes where fluorinated compounds/fluoride  are reaction participants. We emphasize that these proteins mostly conduct biochemistry with monofluorinated compounds as these are the most abundant in natural products. Nonetheless, this consolidated table provides examples of enzymes capable of defluorination as starting point for engineering or evolution. A protein FASTA file is available for download [here](https://github.com/serina-robinson/PFAS-Biodegradation-Toolkit/blob/main/data/20240927_fluorinated_deg_aa.faa) and a a full version of the table below is available for download [here](https://github.com/serina-robinson/PFAS-Biodegradation-Toolkit/blob/main/data/20240927_fluorinated_deg_genes_SR_v7.csv)
 
 
 
