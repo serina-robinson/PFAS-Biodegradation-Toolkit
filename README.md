@@ -1,9 +1,9 @@
 # PFAS Biodegradation Toolkit
 Collection curated and gathered by:
-*Lawrence P. Wackett* 
+* **Lawrence P. Wackett** 
 University of Minnesota 
 Department of Biochemistry, Molecular Biology and Biophysics & Biotechnology Institute, University of Minnesota, Twin Cities, MN, USA
-*Serina L. Robinson*
+* **Serina L. Robinson**
 Department of Environmental Microbiology, the Swiss Federal Institute of Aquatic Science and Technology (Eawag), Duebendorf, Switzerland
 
 This is a curated collection of enzymes where fluorinated compounds/fluoride  are reaction participants. A protein FASTA file is available for download [here](https://github.com/serina-robinson/PFAS-Biodegradation-Toolkit/blob/main/data/20240927_fluorinated_deg_aa.faa) and a a full version of the table below is available for download [here](https://github.com/serina-robinson/PFAS-Biodegradation-Toolkit/blob/main/data/20240927_fluorinated_deg_genes_SR_v7.csv)
