@@ -5,9 +5,11 @@ Collection curated and gathered by:
 
 * **Serina L. Robinson**
 <br>Department of Environmental Microbiology, the Swiss Federal Institute of Aquatic Science and Technology (Eawag), Duebendorf, Switzerland</br>
-<br>
+
 This is a curated collection of enzymes where fluorinated compounds/fluoride  are reaction participants. A protein FASTA file is available for download [here](https://github.com/serina-robinson/PFAS-Biodegradation-Toolkit/blob/main/data/20240927_fluorinated_deg_aa.faa) and a a full version of the table below is available for download [here](https://github.com/serina-robinson/PFAS-Biodegradation-Toolkit/blob/main/data/20240927_fluorinated_deg_genes_SR_v7.csv)
-</br>
+
+
+
 | ec_class_first | ec_class_fourth | major_substrate_class | substrate_details                                                                  | accession  | id                                                                                                                                                                                                                            | reference                                                     |
 |----------------|-----------------|-----------------------|------------------------------------------------------------------------------------|------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
 | 1              | 1.11.2.6        | aminoacid_F           | Peroxygenase capable of defluorinating 3-fluoro-tyrosine                           | ANS62459.1 | ANS62459.1 LmbB2 [Streptomyces lincolnensis]                                                                                                                                                                                  | 10.1007/s002030050578                                         |
