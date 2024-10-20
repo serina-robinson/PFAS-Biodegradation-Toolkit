@@ -10,10 +10,10 @@ This is a curated collection of enzymes where fluorinated compounds/fluoride  ar
 For more information we encourage you to check out the latest work on this subject on [Google Scholar](https://scholar.google.com/citations?hl=en&user=M_wn8q0AAAAJ&view_op=list_works&sortby=pubdate).
 
 **Useful links**
-*[PubChem PFAS Classification tree](https://pubchem.ncbi.nlm.nih.gov/classification/#hid=120)
-*[Helpful documentation by Schymanski et al. for PubChem PFAS Classification tree](https://gitlab.com/uniluxembourg/lcsb/eci/pubchem-docs/-/raw/main/pfas-tree/PFAS_Tree.pdf?inline=false)
-*[For protein sequences: UniProt KB](https://www.uniprot.org/help/uniprotkb)
-*[For bacterial metadata: BacDive](https://bacdive.dsmz.de/)
+* [PubChem PFAS Classification tree](https://pubchem.ncbi.nlm.nih.gov/classification/#hid=120)
+* [Helpful documentation by Schymanski et al. for PubChem PFAS Classification tree](https://gitlab.com/uniluxembourg/lcsb/eci/pubchem-docs/-/raw/main/pfas-tree/PFAS_Tree.pdf?inline=false)
+* [For protein sequences: UniProt KB](https://www.uniprot.org/help/uniprotkb)
+* [For bacterial metadata: BacDive](https://bacdive.dsmz.de/)
 
 | ec_class_first | ec_class_fourth | major_substrate_class | substrate_details                                                                  | accession  | id                                                                                                                                                                                                                            | reference                                                     |
 |----------------|-----------------|-----------------------|------------------------------------------------------------------------------------|------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
