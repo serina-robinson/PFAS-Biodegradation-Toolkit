@@ -12,6 +12,9 @@ For more information we encourage you to check out the latest work on this subje
 **Useful links**
 <br>
 * [PubChem PFAS Classification tree](https://pubchem.ncbi.nlm.nih.gov/classification/#hid=120)
+* [National Institute of Standards and Technoogy (NIST) PFAS](https://www.nist.gov/programs-projects/and-polyfluoroalkyl-substances-pfas)
+* [NIST PFAS mass spectrometry standards](https://data.nist.gov/od/id/mds2-2905)
+* [U.S. Environmental Protection Agency PFAS Resources](https://www.epa.gov/pfas/pfas-resources-data-and-tools)
 * [Helpful documentation by Schymanski et al. for PubChem PFAS Classification tree](https://gitlab.com/uniluxembourg/lcsb/eci/pubchem-docs/-/raw/main/pfas-tree/PFAS_Tree.pdf?inline=false)
 * [For protein sequences: UniProt KB](https://www.uniprot.org/help/uniprotkb)
 * [For bacterial metadata: BacDive](https://bacdive.dsmz.de/)
