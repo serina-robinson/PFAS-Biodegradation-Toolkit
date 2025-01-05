@@ -7,12 +7,13 @@ Collection curated and gathered by:
 <br>Department of Environmental Microbiology, the Swiss Federal Institute of Aquatic Science and Technology (Eawag), Duebendorf, Switzerland</br>
 
 ### Description
+---
 This is a curated collection of enzymes where fluorinated compounds/fluoride  are reaction participants, primarily from [BRENDA](https://brenda-enzymes.org/fulltext.php?overall=1) and other literature sources listed in the table below. We emphasize that these natural proteins mainly conduct biochemical reactions with monofluorinated compounds and mostly natural metabolite analogs, rather than PFAS. Therefore, this resource provides a consolidated set of enzymes generally capable of defluorination (not specifically for PFAS) as starting points for engineering or evolution. A protein FASTA file is available for download [here](https://github.com/serina-robinson/PFAS-Biodegradation-Toolkit/blob/main/data/20241011_fluorinated_deg_proteins.faa) and a full version of the table below is available for download [here](https://github.com/serina-robinson/PFAS-Biodegradation-Toolkit/blob/main/data/20241011_fluorinated_deg_protein_metadata_table.csv). 
 For more information we encourage you to check out the latest work on this subject on [Google Scholar](https://scholar.google.com/citations?hl=en&user=M_wn8q0AAAAJ&view_op=list_works&sortby=pubdate).
 
 
 ### Considerations for PFAS Biodegradation
-
+---
 Bioremediation works best when microbes, either singly or collectively, safely and efficiently metabolize a chemical substance for single organism or community benefit. For PFAS, we suggest the following as preconditions for active, sustained biodegradation by naturally-evolved or engineered bacteria or communities:
 
 1. Efficient fluoride stress management
@@ -26,6 +27,7 @@ Bioremediation works best when microbes, either singly or collectively, safely a
 5. Positive selection, eg. oxidizable bonds to obtain electrons; or bonds serving as electron sink for respiration
 
 ### Additional useful links 
+---
 <br>
 * [PubChem PFAS Classification tree](https://pubchem.ncbi.nlm.nih.gov/classification/#hid=120)
 * [National Institute of Standards and Technoogy (NIST) PFAS](https://www.nist.gov/programs-projects/and-polyfluoroalkyl-substances-pfas)
