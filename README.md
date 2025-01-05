@@ -1,13 +1,42 @@
 # PFAS Biodegradation Toolkit
-Collection curated and gathered by:
-* **Lawrence P. Wackett** 
-<br>Department of Biochemistry, Molecular Biology and Biophysics & Biotechnology Institute, University of Minnesota, Twin Cities, MN, USA</br>
 
-* **Serina L. Robinson**
-<br>Department of Environmental Microbiology, the Swiss Federal Institute of Aquatic Science and Technology (Eawag), Duebendorf, Switzerland</br>
+Data supporting the manuscript:
 
-This is a curated collection of enzymes where fluorinated compounds/fluoride  are reaction participants. We emphasize that these proteins mostly conduct biochemistry with monofluorinated compounds as these are the most abundant in natural products. Nonetheless, this consolidated table provides examples of enzymes capable of defluorination as starting point for engineering or evolution. A protein FASTA file is available for download [here](https://github.com/serina-robinson/PFAS-Biodegradation-Toolkit/blob/main/data/20240927_fluorinated_deg_aa.faa) and a a full version of the table below is available for download [here](https://github.com/serina-robinson/PFAS-Biodegradation-Toolkit/blob/main/data/20240927_fluorinated_deg_genes_SR_v7.csv)
+**Wackett, L. and Robinson S.** A prescription for engineering PFAS biodegradation *Biochemical Journal* (2024) 481 (23): 1757–1770.
+[doi: 10.1042/BCJ20240283](https://portlandpress.com/biochemj/article/481/23/1757/235292)
 
+### Description
+---
+This is a curated collection of enzymes where fluorinated compounds/fluoride  are reaction participants, primarily from [BRENDA](https://brenda-enzymes.org/fulltext.php?overall=1) and other literature sources listed in the table below. We emphasize that these natural proteins mainly conduct biochemical reactions with monofluorinated compounds and mostly natural metabolite analogs, rather than PFAS. Therefore, this resource provides a consolidated set of enzymes generally capable of defluorination (not specifically for PFAS) as starting points for engineering or evolution. A protein FASTA file is available for download [here](https://github.com/serina-robinson/PFAS-Biodegradation-Toolkit/blob/main/data/20241011_fluorinated_deg_proteins.faa) and a full version of the table below is available for download [here](https://github.com/serina-robinson/PFAS-Biodegradation-Toolkit/blob/main/data/20241011_fluorinated_deg_protein_metadata_table.csv). 
+For more information we encourage you to check out the latest work on this subject on Google Scholar by [LW](https://scholar.google.com/citations?hl=en&user=M_wn8q0AAAAJ&view_op=list_works&sortby=pubdate) or [SR](https://scholar.google.com/citations?user=0bXdVF8AAAAJ&hl=en).
+
+
+### Some caveats and considerations for PFAS Biodegradation
+---
+Bioremediation works best when microbes, either singly or collectively, safely and efficiently metabolize a chemical substance for single organism or community benefit. For PFAS, we suggest the following as preconditions for active, sustained biodegradation by naturally-evolved or engineered bacteria or communities:
+
+1. Efficient fluoride stress management
+
+2. Requisite enzyme(s) cleaving C-F bonds
+
+3. Enzyme complementarity making metabolic pathways
+
+4. Managing potential toxic intermediates, eg. electrophilic polyfluoroolefins
+
+5. Positive selection, eg. oxidizable bonds to obtain electrons; or bonds serving as electron sink for respiration
+
+### Additional useful links 
+---
+
+* [PubChem PFAS Classification tree](https://pubchem.ncbi.nlm.nih.gov/classification/#hid=120)
+* [National Institute of Standards and Technoogy (NIST) PFAS](https://www.nist.gov/programs-projects/and-polyfluoroalkyl-substances-pfas)
+* [NIST PFAS mass spectrometry standards](https://data.nist.gov/od/id/mds2-2905)
+* [U.S. Environmental Protection Agency PFAS Resources](https://www.epa.gov/pfas/pfas-resources-data-and-tools)
+* [Helpful documentation by Schymanski et al. for PubChem PFAS Classification tree](https://gitlab.com/uniluxembourg/lcsb/eci/pubchem-docs/-/raw/main/pfas-tree/PFAS_Tree.pdf?inline=false)
+* [For protein sequences: UniProt KB](https://www.uniprot.org/help/uniprotkb)
+* [For bacterial metadata: BacDive](https://bacdive.dsmz.de/)
+* [For biotransformation prediction: enviPath](https://envipath.org/)
+* [Another option for biotransformation prediction: Eawag-Biodegradation and Biocatalysis Database Pathway Prediction System](http://eawag-bbd.ethz.ch/predict/)
 
 
 | ec_class_first | ec_class_fourth | major_substrate_class | substrate_details                                                                  | accession  | id                                                                                                                                                                                                                            | reference                                                     |
