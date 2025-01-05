@@ -1,15 +1,13 @@
 # PFAS Biodegradation Toolkit
-Collection curated and gathered by:
-* **Lawrence P. Wackett** 
-<br>Department of Biochemistry, Molecular Biology and Biophysics & Biotechnology Institute, University of Minnesota, Twin Cities, MN, USA</br>
 
-* **Serina L. Robinson**
-<br>Department of Environmental Microbiology, the Swiss Federal Institute of Aquatic Science and Technology (Eawag), Duebendorf, Switzerland</br>
+Data supporting the manuscript:
+Wackett, L. and Robinson S. **A prescription for engineering PFAS biodegradation** *Biochemical Journal* (2024) 481 (23): 1757–1770.
+[doi: 10.1042/BCJ20240283](https://doi.org/10.1042/BCJ20240283)
 
 ### Description
 ---
 This is a curated collection of enzymes where fluorinated compounds/fluoride  are reaction participants, primarily from [BRENDA](https://brenda-enzymes.org/fulltext.php?overall=1) and other literature sources listed in the table below. We emphasize that these natural proteins mainly conduct biochemical reactions with monofluorinated compounds and mostly natural metabolite analogs, rather than PFAS. Therefore, this resource provides a consolidated set of enzymes generally capable of defluorination (not specifically for PFAS) as starting points for engineering or evolution. A protein FASTA file is available for download [here](https://github.com/serina-robinson/PFAS-Biodegradation-Toolkit/blob/main/data/20241011_fluorinated_deg_proteins.faa) and a full version of the table below is available for download [here](https://github.com/serina-robinson/PFAS-Biodegradation-Toolkit/blob/main/data/20241011_fluorinated_deg_protein_metadata_table.csv). 
-For more information we encourage you to check out the latest work on this subject on [Google Scholar](https://scholar.google.com/citations?hl=en&user=M_wn8q0AAAAJ&view_op=list_works&sortby=pubdate).
+For more information we encourage you to check out the latest work on this subject on [Google Scholar]([https://scholar.google.com/citations?hl=en&user=M_wn8q0AAAAJ&view_op=list_works&sortby=pubdate).
 
 
 ### Some caveats and considerations for PFAS Biodegradation
