@@ -12,7 +12,7 @@ This is a curated collection of enzymes where fluorinated compounds/fluoride  ar
 For more information we encourage you to check out the latest work on this subject on [Google Scholar](https://scholar.google.com/citations?hl=en&user=M_wn8q0AAAAJ&view_op=list_works&sortby=pubdate).
 
 
-### Considerations for PFAS Biodegradation
+### Caveats and considerations for PFAS Biodegradation
 ---
 Bioremediation works best when microbes, either singly or collectively, safely and efficiently metabolize a chemical substance for single organism or community benefit. For PFAS, we suggest the following as preconditions for active, sustained biodegradation by naturally-evolved or engineered bacteria or communities:
 
