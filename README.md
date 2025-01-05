@@ -1,8 +1,9 @@
 # PFAS Biodegradation Toolkit
 
 Data supporting the manuscript:
-Wackett, L. and Robinson S. **A prescription for engineering PFAS biodegradation** *Biochemical Journal* (2024) 481 (23): 1757–1770.
-[doi: 10.1042/BCJ20240283](https://doi.org/10.1042/BCJ20240283)
+
+**Wackett, L. and Robinson S.** A prescription for engineering PFAS biodegradation *Biochemical Journal* (2024) 481 (23): 1757–1770.
+[doi: 10.1042/BCJ20240283](https://portlandpress.com/biochemj/article/481/23/1757/235292)
 
 ### Description
 ---
