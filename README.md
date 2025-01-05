@@ -29,7 +29,6 @@ Bioremediation works best when microbes, either singly or collectively, safely a
 ### Additional useful links 
 ---
 
-<br>
 * [PubChem PFAS Classification tree](https://pubchem.ncbi.nlm.nih.gov/classification/#hid=120)
 * [National Institute of Standards and Technoogy (NIST) PFAS](https://www.nist.gov/programs-projects/and-polyfluoroalkyl-substances-pfas)
 * [NIST PFAS mass spectrometry standards](https://data.nist.gov/od/id/mds2-2905)
@@ -39,7 +38,7 @@ Bioremediation works best when microbes, either singly or collectively, safely a
 * [For bacterial metadata: BacDive](https://bacdive.dsmz.de/)
 * [For biotransformation prediction: enviPath](https://envipath.org/)
 * [Another option for biotransformation prediction: Eawag-Biodegradation and Biocatalysis Database Pathway Prediction System](http://eawag-bbd.ethz.ch/predict/)
-</br>
+
 
 | ec_class_first | ec_class_fourth | major_substrate_class | substrate_details                                                                  | accession  | id                                                                                                                                                                                                                            | reference                                                     |
 |----------------|-----------------|-----------------------|------------------------------------------------------------------------------------|------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
